@@ -27,7 +27,7 @@ params.help = false
 def helpMessage() {
     log.info"""
     =========================================
-     Mykrobe Predictor Pipeline v${version}
+    BWA Predictor Pipeline v${version}
     =========================================
     Usage:
     The typical command for running the pipeline is as follows:
